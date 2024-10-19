@@ -1,7 +1,7 @@
 # Hello!
 
 
-<h3 align="center">A passionate frontend developer from Singapore</h3>
+<h3 align="center">High skilled & long experienced web developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
